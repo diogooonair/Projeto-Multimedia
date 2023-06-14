@@ -4,8 +4,11 @@ A prototype of a fighting system, on unreal engine 4 done 2 years ago!
 
 Controls, AWSD TO MOVE
 RIGHT MOUSE BUTTON - COUNTER ATTACK
+
 LEFT MOUSE BUTTON - ATTACK
+
 SPACE-DODGE
+
 C - LOCK CAMERA (NEEDED TO START COMBAT)
 
 
